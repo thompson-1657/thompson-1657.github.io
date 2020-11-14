@@ -6,10 +6,21 @@
 @media (max-width: 768px) {
 
 
-
+h2{
+    color: blue;
 }
 
+
+.col-sm-6 {
+    box-sizing: content-box;
+    width: 100%;
+    
+}
+
+
+    
 
 @media (max-width: 400px) {
 
 }
+
