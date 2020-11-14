@@ -1,1 +1,1 @@
-# thompson-1657.github.io
+# homework2_responsive_portfolio
