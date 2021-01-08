@@ -2,6 +2,23 @@ p{
     font-size: 18px;
 }
 
+img{
+    width: 250px;
+    height: 250px;
+}
+
+h4 {
+    text-align: center;
+}
+
+.portfolio-links {
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+
 @media (max-width: 768px){ 
     
 .col-sm-6 {
