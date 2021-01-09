@@ -1,8 +1,9 @@
-Responsive Portfolio
+# Responsive Portfolio
 
 In this repository is my responsive portfolio. Using media queries and bootstrap I have created a three-page portfolio that consists of a home page, a contact page and a portfolio page. Each page has a navbar, responsive layout, and responsive images. All of the pages adapt and respond to various breakpoints in layout representing computer screens, tablets and phone screens. Below are images of each page at the various breakpoints chosen:
 
-Home Page
+## Home Page
+---
 
 992 pixels
 
@@ -21,7 +22,8 @@ Home Page
 <img width="200" alt="Screen Shot 2021-01-08 at 8 26 59 PM" src="https://user-images.githubusercontent.com/71091515/104080899-b116e280-51f0-11eb-9181-9a48019012c1.png">
 
 
-Contact Page
+## Contact Page
+---
 
 992 pixels
 
@@ -42,7 +44,8 @@ Contact Page
 <img width="200" alt="Screen Shot 2021-01-08 at 8 26 39 PM" src="https://user-images.githubusercontent.com/71091515/104080909-be33d180-51f0-11eb-8649-392bf6ee36a7.png">
 
 
-Portfolio Page
+## Portfolio Page
+---
 
 992 pixels
 
@@ -62,7 +65,8 @@ Portfolio Page
 <img width="201" alt="Screen Shot 2021-01-08 at 8 32 18 PM" src="https://user-images.githubusercontent.com/71091515/104080914-cbe95700-51f0-11eb-88fc-ea4e867a1750.png">
 
 
-
+## Navigation Bar
+---
 The navbar is also responsive and collapses or expands depending on the screen size being used for viewing. This can be seen here:
 
 
