@@ -91,3 +91,7 @@ The navbar is also responsive and collapses or expands depending on the screen s
 Link to deployed page: https://thompson-1657.github.io
 
 Using responsive design is imperative in creating a fully functional website that can be viewed across various screen sizes. Utilizing breakpoints and media queries allowed me to create a smooth transition in my content depending on screen size and allows for an optimal user experience overall.
+
+## License
+---
+Licensed under the [MIT License](LICENSE)
