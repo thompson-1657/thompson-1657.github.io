@@ -9,19 +9,53 @@ img{
 
 h4 {
     text-align: center;
+    color: #5E6E54;
+}
+
+h2{
+    color: #5E6E54;
+}
+
+#portfolioTitle{
+    margin-left: 123px;
+    margin-top: 45px;
+    margin-bottom: 15px;
 }
 
 .portfolio-links {
     text-align: center;
+    margin-bottom: 0;
+}
+
+#portfolioImg{
+    color: black;
+    font-size: 12px;
+    color: #91A5A1;
+    font-family: serif;
 }
 
 a{
-    color: black;
+    color:#91A5A1;
 }
 
 .contactMe{
     text-align: right;
     padding-right: 10px;
+    color: #91A5A1;
+}
+
+#rightDivs{
+    margin-left: 40px;
+}
+#leftDivs,
+#rightDivs{
+    border-style: double;
+    border-color: #5E6E54;
+    border-width: 9px;
+}
+
+.bgOlive{
+    background: #5E6E54;
 }
 
 @media (max-width: 768px){ 
@@ -32,3 +66,18 @@ a{
 }
 
 }
+
+@media (max-width: 768px){
+#leftDivs{
+margin-left: 48px;
+
+}
+#rightDivs{
+    margin-left: 48px;
+    margin-top: 20px;
+}
+}
+
+
+
+

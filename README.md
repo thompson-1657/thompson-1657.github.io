@@ -7,12 +7,12 @@ Home Page
 992 pixels
 
 
-<img width="497" alt="992-home" src="https://user-images.githubusercontent.com/71091515/99162905-d1cb2c00-26c8-11eb-9209-32be576ae040.png">
+<img width="498" alt="Screen Shot 2021-01-08 at 8 04 32 PM" src="https://user-images.githubusercontent.com/71091515/104080349-f9340600-51ec-11eb-82ce-8cac4beec8f1.png">
 
 768 pixels
 
 
-<img width="386" alt="768-home" src="https://user-images.githubusercontent.com/71091515/99162917-eefffa80-26c8-11eb-9a94-56d233d0e6e8.png">
+<img width="383" alt="Screen Shot 2021-01-08 at 8 08 58 PM" src="https://user-images.githubusercontent.com/71091515/104080438-795a6b80-51ed-11eb-959f-8bbe9b3b1891.png">
 
 
 400 pixels
@@ -28,13 +28,13 @@ Contact Page
 
 
 
-<img width="495" alt="992-contact" src="https://user-images.githubusercontent.com/71091515/99162984-7baab880-26c9-11eb-8611-4898b75aa70f.png">
+<img width="497" alt="Screen Shot 2021-01-08 at 8 04 48 PM" src="https://user-images.githubusercontent.com/71091515/104080359-0b15a900-51ed-11eb-9dd7-46a298bbcbbe.png">
 
 
 768 pixels
 
 
-<img width="385" alt="768-contact" src="https://user-images.githubusercontent.com/71091515/99163002-8feeb580-26c9-11eb-8d81-33676743f0a5.png">
+<img width="385" alt="Screen Shot 2021-01-08 at 8 09 25 PM" src="https://user-images.githubusercontent.com/71091515/104080450-8d9e6880-51ed-11eb-987c-34fd4bfa2951.png">
 
 
 400 pixels
@@ -49,13 +49,13 @@ Portfolio Page
 992 pixels
 
 
-<img width="495" alt="992-portfolio" src="https://user-images.githubusercontent.com/71091515/99163022-b7de1900-26c9-11eb-83fe-fbdfae15fc72.png">
+<img width="495" alt="Screen Shot 2021-01-08 at 8 05 03 PM" src="https://user-images.githubusercontent.com/71091515/104080378-1a94f200-51ed-11eb-91e5-51642a6b35c6.png">
 
 
 768 pixels
 
 
-<img width="384" alt="768-portfolio" src="https://user-images.githubusercontent.com/71091515/99163030-d47a5100-26c9-11eb-950d-e25d988fef46.png">
+<img width="383" alt="Screen Shot 2021-01-08 at 8 08 38 PM" src="https://user-images.githubusercontent.com/71091515/104080455-9a22c100-51ed-11eb-8e8d-42e93ee7f9b0.png">
 
 
 400 pixels
@@ -84,6 +84,6 @@ The navbar is also responsive and collapses or expands depending on the screen s
 
 <img width="200" alt="nav-xs" src="https://user-images.githubusercontent.com/71091515/99163082-59656a80-26ca-11eb-9ec7-0ee1cf64940c.png">
 
-(There is a great deal of placeholder content as I am a new developer who has yet to have proper content to include in my portfolio and will update at a later date as my skill set progresses and I have fully functional work to display.)
+Link to deployed page: 
 
 Using responsive design is imperative in creating a fully functional website that can be viewed across various screen sizes. Utilizing breakpoints and media queries allowed me to create a smooth transition in my content depending on screensize and allows for an optimal user experience overall.
