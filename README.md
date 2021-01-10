@@ -92,6 +92,12 @@ Link to deployed page: https://thompson-1657.github.io
 
 Using responsive design is imperative in creating a fully functional website that can be viewed across various screen sizes. Utilizing breakpoints and media queries allowed me to create a smooth transition in my content depending on screen size and allows for an optimal user experience overall.
 
+## Technologies
+---
+* HTML5
+* CSS3
+* Bootstrap
+
 ## License
 ---
 Licensed under the [MIT License](LICENSE)
